@@ -1,4 +1,5 @@
-Continual Learning Paper
+**Continual Learning Paper
+
 1. Overcoming catastrophic forgetting in neural networks, Kirkpatrick et al.
 
 2. Progressive Neural Networks, Rusu et al.
